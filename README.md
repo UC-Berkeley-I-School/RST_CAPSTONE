@@ -1,2 +1,1 @@
-# RST_CAPSTONE
-# RST_CAPSTONE
+Capstone Readme
